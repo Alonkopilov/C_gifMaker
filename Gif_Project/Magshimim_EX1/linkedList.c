@@ -1,8 +1,6 @@
 #include "linkedList.h"
 #include <opencv2\highgui\highgui_c.h>
 
-#pragma warning(disable:4996)
-
 /*
 	Gets a linked list of frames and prints every frame details
 	input: The first node of a FrameNode linked list
