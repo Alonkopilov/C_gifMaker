@@ -1,8 +1,3 @@
-/*********************************
-* Class: MAGSHIMIM Final Project *
-* Play function declaration	 	 *
-**********************************/
-
 #ifndef VIEWH
 #define VIEWH
 

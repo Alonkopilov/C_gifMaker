@@ -1,8 +1,6 @@
 #include "linkedList.h"
 #include "ImportExport.h"
 
-#pragma warning(disable:4996)
-
 /*
 	Gets the frame list and saves the project into a text file
 	input: a linked list of frames, a path to save the project

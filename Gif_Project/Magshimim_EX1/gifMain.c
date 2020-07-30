@@ -5,8 +5,6 @@
 #include <stdio.h>
 #include <opencv2\highgui\highgui_c.h>
 
-#pragma warning(disable:4996)
-
 #define RESET -1
 
 enum menuChoices{
